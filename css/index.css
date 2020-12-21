@@ -3225,7 +3225,7 @@ blockquote footer cite:before {
   display: block;
   width: 100%;
   height: 100%;
-  background-color: rgba(76,73,72,0.3);
+  background-color: rgba(132,189,164,0.5);
   content: '';
 }
 #page-header.no-top-img {
